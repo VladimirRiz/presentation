@@ -634,6 +634,9 @@ $controlsArrowAngleActive: 36deg;
 	text-align: center;
 	perspective: 600px;
 	perspective-origin: 50% 40%;
+	p{
+		text-align: left;
+	}
 }
 
 .reveal .slides>section {
